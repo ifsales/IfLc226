@@ -1,21 +1,20 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.0.1.0",
+    "versao":  "1.0.2.0",
     "data":  "2026-10-09",
-    "titulo":  "Apurador LC 226 1.0.1.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.0.1.0/ApuradorLC226_Setup_1.0.1.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.0.1.0.exe",
-    "sha256":  "03024c3069e4f34b31248e29ea424700546155eacc83af8ce5fd089dd4b22a45",
+    "titulo":  "Apurador LC 226 1.0.2.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.0.2.0/ApuradorLC226_Setup_1.0.2.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.0.2.0.exe",
+    "sha256":  "9347fac86d5d5e8d71cfa193b422aaaf271b29a658332fd3b83e00bb56461787",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.0.1.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.0.1.0/ApuradorLC226_Portable_1.0.1.0.zip",
-                     "sha256":  "89aaf51abab65608b2ee1a74ee1a97cd82d183e09ec719a11360615e119fb8d9"
+                     "arquivo":  "ApuradorLC226_Portable_1.0.2.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.0.2.0/ApuradorLC226_Portable_1.0.2.0.zip",
+                     "sha256":  "3759abf7ff22e48ec98987bcca7707702bdfdb823277a72e4ae91873618b3c8a"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Opção nos Parâmetros: salário-base da complementar de reajuste retroativo no devido sem pagamento",
-                      "Análise determinística dos casos divergentes (botão Análise)",
-                      "Relatório de análise sem tela",
-                      "Atualizações pelo repositório ifsales/IfLc226"
+                      "Relatórios e tela por divisão e por unidade",
+                      "Análise abre filtrada no trabalhador selecionado",
+                      "Versão visível no programa"
                   ]
 }
