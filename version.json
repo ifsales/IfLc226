@@ -1,20 +1,21 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.0.3.0",
+    "versao":  "1.0.4.0",
     "data":  "2026-10-09",
-    "titulo":  "Apurador LC 226 1.0.3.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.0.3.0/ApuradorLC226_Setup_1.0.3.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.0.3.0.exe",
-    "sha256":  "35ff59625ef89be38336d82422958c9cda1a323789ea3ee3fc3e866373e9a813",
+    "titulo":  "Apurador LC 226 1.0.4.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.0.4.0/ApuradorLC226_Setup_1.0.4.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.0.4.0.exe",
+    "sha256":  "b7e038b1db365a41f6d45396c2bdaa9b535540c4370317d376ea4662c8e7ba90",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.0.3.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.0.3.0/ApuradorLC226_Portable_1.0.3.0.zip",
-                     "sha256":  "1ffd6554a434ec14cce22df21e82ab8cba911729e75a028d8a36d9fd60044d26"
+                     "arquivo":  "ApuradorLC226_Portable_1.0.4.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.0.4.0/ApuradorLC226_Portable_1.0.4.0.zip",
+                     "sha256":  "b69394b610f1e4fd1b1c2ca3458f2e6d83b824a5ebf0a8970553a2c38c2afb71"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Telas pelo CNPJ da empresa",
-                      "Parâmetros da apuração para as demais entidades",
-                      "Relatórios da apuração atual"
+                      "A análise é deste sistema para todas as entidades",
+                      "Parâmetros das demais entidades sobre o motor deste sistema",
+                      "Linha do tempo explicada no relatório do servidor",
+                      "Retirado"
                   ]
 }
