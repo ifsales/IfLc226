@@ -1,31 +1,18 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.1.0.0",
-    "data":  "2026-10-11",
-    "titulo":  "Apurador LC 226 1.1.0.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.1.0.0/ApuradorLC226_Setup_1.1.0.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.1.0.0.exe",
-    "sha256":  "83a1cf5f287d7e8c1d0b7f3c0cc7510007fb78c0de8be75a777ad5ba16839036",
+    "versao":  "1.1.1.0",
+    "data":  "2026-10-13",
+    "titulo":  "Apurador LC 226 1.1.1.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.1.1.0/ApuradorLC226_Setup_1.1.1.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.1.1.0.exe",
+    "sha256":  "1ba0835d91a7939de9f6699524d9157ff71af3d04b00af0765d49f4c77da19ff",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.1.0.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.1.0.0/ApuradorLC226_Portable_1.1.0.0.zip",
-                     "sha256":  "da9706941857976d332be8854a3bf7630a49e8be4e4f5714e8ff6b52a3482040"
+                     "arquivo":  "ApuradorLC226_Portable_1.1.1.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.1.1.0/ApuradorLC226_Portable_1.1.1.0.zip",
+                     "sha256":  "ad996307b8249b3c0c934c8859bc9a1db393520c1a0c98cfe54e56747281f81d"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Um banco por CNPJ",
-                      "Lista de eventos de ATS configurável",
-                      "Contagem do tempo por evento: mês de 30 dias ou ciclo em dias",
-                      "Relatório separado por evento com história e gráfico (padrão)",
-                      "Modelo econômico de impressão",
-                      "Apuração por servidor ou por divisão e reprocessar",
-                      "13º salário na folha de 13º (tipo 5)",
-                      "Correção: validação V01 nas demais entidades",
-                      "Validação e contravalidação",
-                      "Tela Início e menus",
-                      "Painel LC 226 para a entidade (visualizador web)",
-                      "Rodapé, temas e assinatura",
-                      "Juros e correção monetária (módulo à parte)",
-                      "Painel web protegido por usuário e senha"
+                      "Correção: tempo de outros registros do mesmo CPF/PIS (TSREGISTROS_RESCINDIDOS)"
                   ]
 }
