@@ -1,20 +1,22 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.4.0.0",
+    "versao":  "1.4.2.0",
     "data":  "2026-10-15",
-    "titulo":  "Apurador LC 226 1.4.0.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.0.0/ApuradorLC226_Setup_1.4.0.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.4.0.0.exe",
-    "sha256":  "985e74d5e2cb346155d7654b9dd42cb2ee4119a0686473cec6a2da13023b2e70",
+    "titulo":  "Apurador LC 226 1.4.2.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.2.0/ApuradorLC226_Setup_1.4.2.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.4.2.0.exe",
+    "sha256":  "02375d5904eb4221c2d2177f053a153100d6ebda6e9cd7946023164442230540",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.4.0.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.0.0/ApuradorLC226_Portable_1.4.0.0.zip",
-                     "sha256":  "77cd39f775e96fa6542d479e8fdc009c058d9a8922e1763451cc53bf5f69eb30"
+                     "arquivo":  "ApuradorLC226_Portable_1.4.2.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.2.0/ApuradorLC226_Portable_1.4.2.0.zip",
+                     "sha256":  "25697e54fb22ff3e7cef09b33b3f6b29ac65bf586148ef12e57e4479febc08a1"
                  },
-    "obrigatoria":  false,
+    "obrigatoria":  true,
     "descricao":  [
-                      "Análise individual determinística (A01 a A05)",
-                      "Números da análise",
-                      "Validação"
+                      "Servidores desconsiderados continuam visíveis",
+                      "Troca de rubrica não é pagamento a maior",
+                      "Análises também em Zacarias",
+                      "Validação",
+                      "Regras de cálculo: Zacarias x demais entidades (análise, sem mudança de valor)"
                   ]
 }
