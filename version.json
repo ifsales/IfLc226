@@ -1,20 +1,21 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.4.3.0",
+    "versao":  "1.4.4.0",
     "data":  "2026-10-16",
-    "titulo":  "Apurador LC 226 1.4.3.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.3.0/ApuradorLC226_Setup_1.4.3.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.4.3.0.exe",
-    "sha256":  "56845a3ec557b7267050844c2d92a338dc5b542c83d611435e62ef393ed08668",
+    "titulo":  "Apurador LC 226 1.4.4.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.4.0/ApuradorLC226_Setup_1.4.4.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.4.4.0.exe",
+    "sha256":  "79656ee8f59742940547c2ea896853d2872a7f92d0721cd96405144c0a625399",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.4.3.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.3.0/ApuradorLC226_Portable_1.4.3.0.zip",
-                     "sha256":  "80b62b0173851327afebcb8bb9b64746c3301660c0deb11ae5d9501aa0b24582"
+                     "arquivo":  "ApuradorLC226_Portable_1.4.4.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.4.0/ApuradorLC226_Portable_1.4.4.0.zip",
+                     "sha256":  "980b2d16529925c213ca997c6989def32a28d705444e41f0393a696f2257bca3"
                  },
     "obrigatoria":  true,
     "descricao":  [
-                      "Novo relatório \"Explicação do resultado\"",
-                      "Outras alterações",
+                      "Reflexo do 13º salário (folha tipo 5)",
+                      "Adiantamentos fora dos reflexos",
+                      "Base do 13º e das férias como o SIP monta",
                       "Validação"
                   ]
 }
