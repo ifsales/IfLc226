@@ -1,20 +1,24 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.4.7.0",
+    "versao":  "1.5.0.0",
     "data":  "2026-10-17",
-    "titulo":  "Apurador LC 226 1.4.7.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.7.0/ApuradorLC226_Setup_1.4.7.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.4.7.0.exe",
-    "sha256":  "9c74a0ed54a98dadcdeb7daa58581e15714031cb19725b3054f1df5fdeaebae8",
+    "titulo":  "Apurador LC 226 1.5.0.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.5.0.0/ApuradorLC226_Setup_1.5.0.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.5.0.0.exe",
+    "sha256":  "df74e9a04b1b5bf618057d34619e52018baeb4932f9bb3a539f8ca7bb52acb66",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.4.7.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.4.7.0/ApuradorLC226_Portable_1.4.7.0.zip",
-                     "sha256":  "35f55d18626aac8bcfc7e50e063d76a4e7294665f90fce57693f0063da8b1bb2"
+                     "arquivo":  "ApuradorLC226_Portable_1.5.0.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.5.0.0/ApuradorLC226_Portable_1.5.0.0.zip",
+                     "sha256":  "b3890936d418332e489d3708fea1819249779e9b3a6d1501c1588f0e4b1f72ea"
                  },
     "obrigatoria":  true,
     "descricao":  [
-                      "Exclusões por cargo e por registro",
-                      "Tempo anterior como o SIP",
-                      "Validação"
+                      "Afastamento sem remuneração: dias contados como na folha",
+                      "Mesma proporcionalidade nos dois cenários",
+                      "Cálculo próprio: compensação de unidade (saúde/segurança) no congelamento",
+                      "Validação",
+                      "Apurações guardadas e comparação",
+                      "Apurar somente os ativos",
+                      "Validação desta versão (17/10/2026, cópias das bases, validação paralela com 0 divergência)"
                   ]
 }
