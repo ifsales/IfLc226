@@ -1,19 +1,21 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.5.3.0",
-    "data":  "2026-10-21",
-    "titulo":  "Apurador LC 226 1.5.3.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.5.3.0/ApuradorLC226_Setup_1.5.3.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.5.3.0.exe",
-    "sha256":  "160fd1c166463947b259a613c2f13d500803d9a53d638bc010d3c7a5bd125b58",
+    "versao":  "1.6.0.0",
+    "data":  "2026-11-06",
+    "titulo":  "Apurador LC 226 1.6.0.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.6.0.0/ApuradorLC226_Setup_1.6.0.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.6.0.0.exe",
+    "sha256":  "3df598beacc61154c0de883d1441ef993d70a41a798a04ab056f63b959c88d87",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.5.3.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.5.3.0/ApuradorLC226_Portable_1.5.3.0.zip",
-                     "sha256":  "c030cb5921f0c127e230075d76627597acbf3813251845b665c62ff236535195"
+                     "arquivo":  "ApuradorLC226_Portable_1.6.0.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.6.0.0/ApuradorLC226_Portable_1.6.0.0.zip",
+                     "sha256":  "f4a17ab7e3a7c572d6b2c9bd998648da3d396efd09a31d752e6ee2056ca55961"
                  },
     "obrigatoria":  true,
     "descricao":  [
-                      "Folha de 13º sem 13º pago não gera mais linha de adicional",
-                      "Resultado (Boa Esperança, somente ativos, folhas 1, 7 e 5)"
+                      "Finalizar e gerar entrega",
+                      "Painel web (página gerada pelo exe)",
+                      "Relatórios",
+                      "Linha de comando"
                   ]
 }
