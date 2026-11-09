@@ -1,20 +1,22 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.8.0.0",
+    "versao":  "1.8.2.0",
     "data":  "2026-11-09",
-    "titulo":  "Apurador LC 226 1.8.0.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.8.0.0/ApuradorLC226_Setup_1.8.0.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.8.0.0.exe",
-    "sha256":  "2e43fa6494e4863e4b41d304cbd29e9018135dda53ce1d25d6bbae8730a3ced3",
+    "titulo":  "Apurador LC 226 1.8.2.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.8.2.0/ApuradorLC226_Setup_1.8.2.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.8.2.0.exe",
+    "sha256":  "8f131eab389d81794bc87f3039280d292a3c4f70b5300f3533f792708f52b53d",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.8.0.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.8.0.0/ApuradorLC226_Portable_1.8.0.0.zip",
-                     "sha256":  "880ee819937d5c54b92044d2dfe42ebec9a9432fce2c2ffd4717bf65bbaff444"
+                     "arquivo":  "ApuradorLC226_Portable_1.8.2.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.8.2.0/ApuradorLC226_Portable_1.8.2.0.zip",
+                     "sha256":  "0e869f3a7dca0b18a8f11b920cfd1b0caa8925d56bdafcb62f1ce1833c124480"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Previdência e simulação do RRA na entrega, no ofício e no painel web",
-                      "Juros e correção: cálculo automático pela regra geral (EC 113/2021)",
-                      "Exportar pessoas: pacote de relatórios individuais para análise da entidade"
+                      "Exportar pessoas: valores atualizados com juros e correção",
+                      "Incidência de previdência e IR sobre juros e correção",
+                      "Simulador RRA sobre o valor atualizado",
+                      "Correção: centavos dos reflexos no total por servidor",
+                      "Telas"
                   ]
 }
