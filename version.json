@@ -1,20 +1,20 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.7.2.0",
-    "data":  "2026-11-08",
-    "titulo":  "Apurador LC 226 1.7.2.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.7.2.0/ApuradorLC226_Setup_1.7.2.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.7.2.0.exe",
-    "sha256":  "ac75d070c503cfb981920edcb46f6df6c7d0aa1ce18a63fa290d7ef77ab6691c",
+    "versao":  "1.8.0.0",
+    "data":  "2026-11-09",
+    "titulo":  "Apurador LC 226 1.8.0.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.8.0.0/ApuradorLC226_Setup_1.8.0.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.8.0.0.exe",
+    "sha256":  "2e43fa6494e4863e4b41d304cbd29e9018135dda53ce1d25d6bbae8730a3ced3",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.7.2.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.7.2.0/ApuradorLC226_Portable_1.7.2.0.zip",
-                     "sha256":  "bea41f88c8d7b69a2cd1aff416db8340f784ebecf7cc0133c0c6434d83cca34b"
+                     "arquivo":  "ApuradorLC226_Portable_1.8.0.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.8.0.0/ApuradorLC226_Portable_1.8.0.0.zip",
+                     "sha256":  "880ee819937d5c54b92044d2dfe42ebec9a9432fce2c2ffd4717bf65bbaff444"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Previdência e Simulador RRA no menu lateral",
-                      "Layout corrigido (telas Previdência e Simulador RRA)",
-                      "Continua valendo (1.7.1.0)"
+                      "Previdência e simulação do RRA na entrega, no ofício e no painel web",
+                      "Juros e correção: cálculo automático pela regra geral (EC 113/2021)",
+                      "Exportar pessoas: pacote de relatórios individuais para análise da entidade"
                   ]
 }
