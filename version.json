@@ -1,22 +1,19 @@
 {
     "produto":  "ApuradorLC226",
-    "versao":  "1.8.2.0",
-    "data":  "2026-11-09",
-    "titulo":  "Apurador LC 226 1.8.2.0",
-    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.8.2.0/ApuradorLC226_Setup_1.8.2.0.exe",
-    "arquivo":  "ApuradorLC226_Setup_1.8.2.0.exe",
-    "sha256":  "8f131eab389d81794bc87f3039280d292a3c4f70b5300f3533f792708f52b53d",
+    "versao":  "1.10.0.0",
+    "data":  "2026-11-16",
+    "titulo":  "Apurador LC 226 1.10.0.0",
+    "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.10.0.0/ApuradorLC226_Setup_1.10.0.0.exe",
+    "arquivo":  "ApuradorLC226_Setup_1.10.0.0.exe",
+    "sha256":  "779321aaa1605a653ed3a22b8b432a2da8a3ad50eef7f76da5864783c43c8da9",
     "portable":  {
-                     "arquivo":  "ApuradorLC226_Portable_1.8.2.0.zip",
-                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.8.2.0/ApuradorLC226_Portable_1.8.2.0.zip",
-                     "sha256":  "0e869f3a7dca0b18a8f11b920cfd1b0caa8925d56bdafcb62f1ce1833c124480"
+                     "arquivo":  "ApuradorLC226_Portable_1.10.0.0.zip",
+                     "download":  "https://github.com/ifsales/IfLc226/releases/download/v1.10.0.0/ApuradorLC226_Portable_1.10.0.0.zip",
+                     "sha256":  "1ac53cb2886965fce9a713309525f28c4a00fae42b7b8a634501c5c579ce2ec9"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Exportar pessoas: valores atualizados com juros e correção",
-                      "Incidência de previdência e IR sobre juros e correção",
-                      "Simulador RRA sobre o valor atualizado",
-                      "Correção: centavos dos reflexos no total por servidor",
-                      "Telas"
+                      "Atualizacao do Apurador LC 226",
+                      "Instalador e portable sem banco local, INI ou sipcon.ini do cliente"
                   ]
 }
